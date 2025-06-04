@@ -9,7 +9,7 @@ We’re building next-generation systems that don’t just process data — they
 
 Explore our work:  
 🌐 Website → [dynnovators.com](https://www.dynnovators.com)  
-📄 Articles → [LinkedIn Page](https://www.linkedin.com/company/dynnovators)  
+📄 Articles → [LinkedIn Page](https://www.linkedin.com/company/dynnovatorsstudio)  
 📚 Framework → [From Signal to Story](https://www.linkedin.com/pulse/from-signal-story-journey-data-meaning-dynnovators-studio-uu3ve/)  
 🧠 Manifesto → [Shaping AI with Intention](https://www.linkedin.com/pulse/shaping-ai-intention-lessons-professional-future-dynnovators-studio-lfhxe/)  
 
