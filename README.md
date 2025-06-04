@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Hugo Morales
 
-Engineer by training, strategist by evolution — I craft bridges between technology, teams, and transformation. With 20+ years of cross-sector experience, I blend technical leadership, systems thinking, and narrative clarity to bring ambitious ideas to life.
+Engineer by training, strategist by evolution... I craft bridges between technology, teams, and transformation. With 20+ years of cross-sector experience, I blend technical leadership, systems thinking, and narrative clarity to bring ambitious ideas to life.
 
-## 🔮 Lead Innovation Strategist @ [Dynnovators Studio](https://www.dynnovators.com)
+## 🔮 Lead Innovation Strategist @ [Dynnovators Studio](https://dynnovators.com)
 
 At Dynnovators, we design AI-driven solutions with soul — blending storytelling, automation, and adaptive intelligence.  
 We’re building next-generation systems that don’t just process data — they generate meaning.
 
 Explore our work:  
 🌐 Website → [dynnovators.com](https://www.dynnovators.com)  
-📄 Articles → [LinkedIn Page](https://www.linkedin.com/company/dynnovatorsstudio)  
+📄 Articles → [Dynnovators Studio@LinkedIn](https://www.linkedin.com/company/dynnovators-studio)
 📚 Framework → [From Signal to Story](https://www.linkedin.com/pulse/from-signal-story-journey-data-meaning-dynnovators-studio-uu3ve/)  
 🧠 Manifesto → [Shaping AI with Intention](https://www.linkedin.com/pulse/shaping-ai-intention-lessons-professional-future-dynnovators-studio-lfhxe/)  
 
